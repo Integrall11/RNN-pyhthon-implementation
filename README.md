@@ -1,2 +1,2 @@
 # RNN pyhthon implementation
-Implementing RNN in python
+Implementing simple RNN, LSTM in python using keras
